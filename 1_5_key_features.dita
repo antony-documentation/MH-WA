@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="Toc208245395">
+      <title>
+        <b>
+          <b>1.5 Key
+Features</b>
+        </b>
+      </title>
+      <body>
+        <ul>
+          <li>Smart, self-driving system for autonomous material
+transport</li>
+          <li>Navigation based on color tape for accurate path following</li>
+          <li>Configurable stops and actions controlled via switches</li>
+          <li>Operates in both automatic and manual modes</li>
+          <li>Powered by a built-in battery system with manual charging via
+plugged connectors</li>
+        </ul>
+      </body>
+    </topic>
